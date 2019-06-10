@@ -2668,6 +2668,25 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #00c0ef;
 }
 
+.bio-social a {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.bio-social a:hover i {
+  color: #00c0ef;
+}
+
+.bio-social i {
+  color: #cccccc;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
 .footer-social a {
   padding-right: 25px;
   -webkit-transition: all 0.3s ease 0s;
