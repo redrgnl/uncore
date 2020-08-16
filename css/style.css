@@ -1816,7 +1816,9 @@ Responsive
 	color: #c9c9c9;
 }
 .sub-title-bold {
-	font-size: 1rem; font-weight: bold;
+	font-size: 1rem !important; 
+	font-weight: bold !important;
+	color: #c9c9c9 !important;
 }
 .text-teal-green {
 	color: #12c7b8;
