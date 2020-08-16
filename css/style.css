@@ -1807,3 +1807,17 @@ Responsive
 		width: 22px;
 	}
 }
+
+/* Custom style. */
+.title-line-text {
+	text-shadow:-1px -1px 0 #02a193, 1px -1px 0 #02a193, -1px 1px 0 #02a193, 1px 1px 0 #02a193;
+}
+.sub-title-color-white {
+	color: #c9c9c9;
+}
+.sub-title-bold {
+	font-size: 1rem; font-weight: bold;
+}
+.text-teal-green {
+	color: #12c7b8;
+}
